@@ -1,5 +1,7 @@
 # siterestaurant
 
+A basic frontend restaurante site
+
 ## Project setup
 ```
 npm install
